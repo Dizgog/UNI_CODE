@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1652302049 source:c:\users\norma\documents\uni code\dsa solo\trecias nd\main.cpp
+	<iostream>
+	"Sort.h"
+
+1652302066 c:\users\norma\documents\uni code\dsa solo\trecias nd\sort.h
+	<iostream>
+	<vector>
+	<iterator>
+	<chrono>
+
+1652296295 source:c:\users\norma\documents\uni code\dsa solo\trecias nd\sort.cpp
+	"Sort.h"
+	<iostream>
+

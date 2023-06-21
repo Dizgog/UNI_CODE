@@ -1,0 +1,84 @@
+# depslib dependency file v1.0
+1648024908 source:c:\users\norma\documents\uni code\poop paskaita\bot_with_classes\bot.cpp
+	<iostream>
+	<sstream>
+	"Bot.h"
+	"Utilities.h"
+	"Phrases.h"
+	"PlayerPC.h"
+	"PlayerPerson.h"
+
+1648024908 c:\users\norma\documents\uni code\poop paskaita\bot_with_classes\bot.h
+	<string>
+
+1648024908 c:\users\norma\documents\uni code\poop paskaita\bot_with_classes\utilities.h
+	<string>
+	<ctime>
+	<algorithm>
+
+1648024908 c:\users\norma\documents\uni code\poop paskaita\bot_with_classes\phrases.h
+	<string>
+	<vector>
+	<stdexcept>
+
+1648024908 c:\users\norma\documents\uni code\poop paskaita\bot_with_classes\playerpc.h
+	<vector>
+	<iostream>
+	<random>
+	<chrono>
+	<string>
+	"Utilities.h"
+
+1648024908 c:\users\norma\documents\uni code\poop paskaita\bot_with_classes\playerperson.h
+	<iostream>
+	<string>
+	"Utilities.h"
+	<algorithm>
+
+1648024908 source:c:\users\norma\documents\uni code\poop paskaita\bot_with_classes\main.cpp
+	"Bot.h"
+
+1648024908 source:c:\users\norma\documents\uni code\poop paskaita\bot_with_classes\phrases.cpp
+	"Phrases.h"
+
+1648024908 source:c:\users\norma\documents\uni code\poop paskaita\bot_with_classes\playerpc.cpp
+	"PlayerPC.h"
+
+1648024908 source:c:\users\norma\documents\uni code\poop paskaita\bot_with_classes\playerperson.cpp
+	"PlayerPerson.h"
+
+1648024908 source:c:\users\norma\documents\uni code\poop paskaita\bot_with_classes\utilities.cpp
+	"Utilities.h"
+
+1648024212 source:c:\users\norma\documents\uni code\poop paskaita\new folder\character.cpp
+	"character.h"
+
+1648024147 c:\users\norma\documents\uni code\poop paskaita\new folder\character.h
+	<string>
+	<iostream>
+
+1648024380 source:c:\users\norma\documents\uni code\poop paskaita\new folder\workout.cpp
+	"workout.h"
+
+1648024348 c:\users\norma\documents\uni code\poop paskaita\new folder\workout.h
+	<string>
+
+1648024212 source:c:\users\norma\documents\uni code\poop paskaita\just keep this main safe\character.cpp
+	"character.h"
+
+1648024147 c:\users\norma\documents\uni code\poop paskaita\just keep this main safe\character.h
+	<string>
+	<iostream>
+
+1648024380 source:c:\users\norma\documents\uni code\poop paskaita\just keep this main safe\workout.cpp
+	"workout.h"
+
+1648024348 c:\users\norma\documents\uni code\poop paskaita\just keep this main safe\workout.h
+	<string>
+
+1648588340 source:c:\users\norma\documents\uni code\poop paskaita\just keep this main safe\main.cpp
+	"workout.h"
+	"character.h"
+	<vector>
+	<time.h>
+

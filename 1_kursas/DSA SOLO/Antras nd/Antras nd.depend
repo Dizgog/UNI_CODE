@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1651353679 source:c:\users\norma\documents\uni code\dsa solo\antras nd\main.cpp
+	"ADT.hpp"
+
+1648393884 source:c:\users\norma\documents\uni code\dsa solo\antras nd\adt.cpp
+	"ADT.hpp"
+	<sstream>
+
+1651353706 c:\users\norma\documents\uni code\dsa solo\antras nd\adt.hpp
+	<stdio.h>
+	<iostream>
+	<vector>
+	<sstream>
+	<stdexcept>
+	<algorithm>
+	<iterator>
+

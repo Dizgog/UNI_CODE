@@ -1,0 +1,102 @@
+# depslib dependency file v1.0
+1651532378 source:c:\users\eigir\onedrive\stalinis kompiuteris\calculator\logic\main.cpp
+	<iostream>
+	"classes_logic.h"
+
+1651532844 c:\users\eigir\onedrive\stalinis kompiuteris\calculator\logic\classes_logic.h
+	<functional>
+	<vector>
+	<string>
+	<cmath>
+	<sstream>
+	<algorithm>
+
+1651532378 source:c:\users\eigir\onedrive\stalinis kompiuteris\calculator\logic - copy (6)\main.cpp
+	<iostream>
+	"classes_logic.h"
+
+1651532844 c:\users\eigir\onedrive\stalinis kompiuteris\calculator\logic - copy (6)\classes_logic.h
+	<functional>
+	<vector>
+	<string>
+	<cmath>
+	<sstream>
+	<algorithm>
+
+1651789825 source:c:\users\eigir\onedrive\stalinis kompiuteris\calculator\sitas\main.cpp
+	<iostream>
+	"classes_logic.h"
+
+1651790263 c:\users\eigir\onedrive\stalinis kompiuteris\calculator\sitas\classes_logic.h
+	<functional>
+	<vector>
+	<string>
+	<cmath>
+	<sstream>
+	<algorithm>
+	<map>
+	<set>
+
+1651788192 source:c:\users\eigir\onedrive\stalinis kompiuteris\calculator\sitas\providers.cpp
+	"classes_logic.h"
+
+1651789796 source:c:\users\eigir\onedrive\stalinis kompiuteris\calculator\sitas\simplify.cpp
+	"classes_logic.h"
+
+1651789908 source:c:\users\eigir\onedrive\stalinis kompiuteris\calculator\sitas\operators.cpp
+	"classes_logic.h"
+
+1652385326 source:c:\users\eigir\onedrive\stalinis kompiuteris\calculator\skaiciuotuvas\main.cpp
+	<iostream>
+	"classes_logic.h"
+
+1652388906 c:\users\eigir\onedrive\stalinis kompiuteris\calculator\skaiciuotuvas\classes_logic.h
+	<functional>
+	<map>
+	<vector>
+	<cmath>
+	<string>
+
+1652388565 source:c:\users\eigir\onedrive\stalinis kompiuteris\calculator\skaiciuotuvas\operators.cpp
+	"classes_logic.h"
+	<sstream>
+
+1652365479 source:c:\users\eigir\onedrive\stalinis kompiuteris\calculator\skaiciuotuvas\providers.cpp
+	"classes_logic.h"
+	<sstream>
+	<algorithm>
+
+1652367914 source:c:\users\eigir\onedrive\stalinis kompiuteris\calculator\skaiciuotuvas\simplify.cpp
+	"classes_logic.h"
+
+1652366468 source:c:\users\eigir\onedrive\stalinis kompiuteris\calculator\skaiciuotuvas\validation.cpp
+	"classes_logic.h"
+	<cctype>
+
+1652392091 source:c:\users\eigir\onedrive\stalinis kompiuteris\calculator\calculator\main.cpp
+	<iostream>
+	"classes_logic.h"
+
+1652392168 c:\users\eigir\onedrive\stalinis kompiuteris\calculator\calculator\classes_logic.h
+	<functional>
+	<map>
+	<vector>
+	<cmath>
+	<string>
+
+1652388950 source:c:\users\eigir\onedrive\stalinis kompiuteris\calculator\calculator\operators.cpp
+	"classes_logic.h"
+	<sstream>
+
+1652390803 source:c:\users\eigir\onedrive\stalinis kompiuteris\calculator\calculator\providers.cpp
+	"classes_logic.h"
+	<sstream>
+	<algorithm>
+
+1652389667 source:c:\users\eigir\onedrive\stalinis kompiuteris\calculator\calculator\simplify.cpp
+	"classes_logic.h"
+
+1652392314 source:c:\users\eigir\onedrive\stalinis kompiuteris\calculator\calculator\validation.cpp
+	"classes_logic.h"
+	<cctype>
+

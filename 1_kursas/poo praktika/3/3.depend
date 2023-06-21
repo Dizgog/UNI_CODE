@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1647341149 source:c:\users\norma\documents\uni code\poo praktika\3\main.cpp
+	<iostream>
+	"time.hpp"
+	<vector>
+
+1647347272 source:c:\users\norma\documents\uni code\poo praktika\3\time.cpp
+	"Time.hpp"
+	<sstream>
+	<stdexcept>
+
+1647343433 c:\users\norma\documents\uni code\poo praktika\3\time.hpp
+	<stdio.h>
+	<iostream>
+	<vector>
+

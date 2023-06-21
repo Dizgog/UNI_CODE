@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1652129232 source:c:\users\norma\documents\uni code\poo praktika\11.1\shape.cpp
+	"Shape.h"
+	"Point.h"
+
+1652658669 c:\users\norma\documents\uni code\poo praktika\11.1\shape.h
+	"Point.h"
+
+1652127586 c:\users\norma\documents\uni code\poo praktika\11.1\point.h
+	<iostream>
+

@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1652640127 source:d:\rafal paszkiewiczcodeblocks\c++\calculator\calculator.cpp
+	<iostream>
+	<cstdio>
+	<cmath>
+	<math.h>
+	<string>
+	<windows.h>
+	<tchar.h>
+	<wchar.h>
+	<winuser.h>
+	"Calculator.h"
+
+1652642301 source:d:\rafal paszkiewiczcodeblocks\c++\calculator\math.cpp
+	<vector>
+	"Math.h"
+	<iostream>
+	<string>
+	<string>
+	<sstream>
+	<regex>
+	<cctype>
+
+1652642275 d:\rafal paszkiewiczcodeblocks\c++\calculator\math.h
+	<vector>
+	<string>
+	<wchar.h>
+
+1652642196 source:d:\rafal paszkiewiczcodeblocks\c++\calculator\main.cpp
+	<cstdio>
+	<cmath>
+	<string>
+	<windows.h>
+
+1652622403 d:\rafal paszkiewiczcodeblocks\c++\calculator\calculator.h
+	"Math.h"
+	<windows.h>
+	<wchar.h>
+

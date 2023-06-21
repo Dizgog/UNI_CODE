@@ -1,0 +1,4 @@
+Norit kad žaidimas veiktu tikriausiai reiks sekti ikeltu filmuko nurodymus
+Taip pat atidarykite game.cpb fail, nes kitaip gali niekas neveikti 
+
+Jeigu kilo kažkokios problemos paleidžiant žaidimą rašykite į Facebook Normantas Kuolas

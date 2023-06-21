@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1653332015 source:c:\users\norma\documents\uni code\poo praktika\13\main.cpp
+
+1653331979 source:c:\users\norma\documents\uni code\poo praktika\13\exceptions.cpp
+	<fstream>
+	<map>
+	<memory>
+	<iostream>
+	<sstream>
+

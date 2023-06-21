@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1646935066 source:c:\users\norma\documents\uni code\poo praktika\3.2extra\extra\main.cpp
+	<iostream>
+	<string>
+	<stdexcept>
+	<vector>
+	"Triangle.hpp"
+	"Point.hpp"
+
+1646935066 c:\users\norma\documents\uni code\poo praktika\3.2extra\extra\triangle.hpp
+	<string>
+	"Point.hpp"
+
+1646935066 c:\users\norma\documents\uni code\poo praktika\3.2extra\extra\point.hpp
+
+1646935066 source:c:\users\norma\documents\uni code\poo praktika\3.2extra\extra\triangle.cpp
+	<iostream>
+	<cmath>
+	<string>
+	<sstream>
+	<stdexcept>
+	"Triangle.hpp"
+

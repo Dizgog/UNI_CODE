@@ -1,0 +1,9 @@
+Užduotis studentui noku8098:
+1.Numeriai visų skaitytojų, kurie yra paėmę konkrečios knygos, nurodytos jos ISBN, egzempliorių.
+2.Visų konkrečiais metais išleistų knygų autorių vardai ir pavardės.
+3.Kiekvienam skaitytojui (vardas, pavardė) ir datai, kai jis turi grąžinti bent vieną egzempliorių, visų jo tuomet grąžintinų egzempliorių skaičius. Unikalus autoriai, unikalios leidykos ir viso puslapiu per visas knygas
+4.Vardai ir pavardės skaitytojų, kurie yra paėmę mažiau knygų už visų skaitytojų paimtų knygų vidurkį(ar baugiausiai is visu). Greta pateikti ir paimtų egzempliorių skaičių. 
+5.Visos lentelės, turinčios pirminį raktą.
+
+Kiekvienai lentelei issskyrus tas lenteles kuriose information sheme arba pg catalog isspausdinti lenteles pavadinima,
+lenteles tipa, kiek turi stulpeiu ir ar turi isorini rakta

@@ -1,0 +1,4 @@
+word:"hello"
+number1:10
+number2:20
+bool1:true

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1631795401 source:c:\users\norma\documents\uni code\2.5\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

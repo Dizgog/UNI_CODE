@@ -1,0 +1,1 @@
+Naudojau Code::Blocks 20.03, C++ 17, Windows 10

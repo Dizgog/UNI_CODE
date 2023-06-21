@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1645212307 source:c:\users\norma\documents\uni code\based\main.cpp
+	<iostream>
+	<list>
+	<vector>
+

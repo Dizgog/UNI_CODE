@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1651515131 source:c:\users\norma\documents\uni code\poo praktika\9.2\main.cpp
+	<iostream>
+	<vector>
+	<deque>
+	<list>
+	<iomanip>
+	<ctime>
+	<chrono>
+	<algorithm>
+

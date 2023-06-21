@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1634750201 source:c:\users\norma\documents\uni code\test\main.c
+	<stdio.h>
+
+1634757902 source:c:\users\norma\documents\uni code\6.5\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

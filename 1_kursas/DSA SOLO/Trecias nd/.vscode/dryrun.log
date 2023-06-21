@@ -1,0 +1,6 @@
+make.exe --dry-run --always-make --keep-going --print-directory
+make: Entering directory 'c:/Users/norma/Documents/UNI CODE/DSA SOLO/Trecias nd'
+make: Leaving directory 'c:/Users/norma/Documents/UNI CODE/DSA SOLO/Trecias nd'
+ 
+Makefile:2: *** missing separator (did you mean TAB instead of 8 spaces?).  Stop.
+

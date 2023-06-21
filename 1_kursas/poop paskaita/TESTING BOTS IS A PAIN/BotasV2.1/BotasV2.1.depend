@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1647986757 source:c:\users\matas\desktop\universitetas\antras semestras\objektinis programavimas\projektai\botasv2.1\bot.cpp
+	"Bot.h"
+
+1647986767 c:\users\matas\desktop\universitetas\antras semestras\objektinis programavimas\projektai\botasv2.1\bot.h
+	<string>
+	<vector>
+	<iostream>
+	<algorithm>
+
+1647987403 source:c:\users\matas\desktop\universitetas\antras semestras\objektinis programavimas\projektai\botasv2.1\main.cpp
+	"Bot.h"
+	<time.h>
+	<sstream>
+
+1647990358 source:c:\users\norma\documents\uni code\poop paskaita\testing bots is a pain\botasv2.1\bot.cpp
+	"Bot.h"
+
+1647990368 c:\users\norma\documents\uni code\poop paskaita\testing bots is a pain\botasv2.1\bot.h
+	<string>
+	<vector>
+	<iostream>
+	<algorithm>
+
+1647991018 source:c:\users\norma\documents\uni code\poop paskaita\testing bots is a pain\botasv2.1\main.cpp
+	"Bot.h"
+	<time.h>
+	<sstream>
+

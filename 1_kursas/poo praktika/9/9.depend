@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1651440968 source:c:\users\norma\documents\uni code\poo praktika\9\main.cpp
+	"myArray.hpp"
+
+1651572502 c:\users\norma\documents\uni code\poo praktika\9\myarray.hpp
+	<stdio.h>
+	<iostream>
+	<vector>
+	<sstream>
+	<stdexcept>
+	<algorithm>
+	<iterator>
+
+1650299880 source:c:\users\norma\documents\uni code\poo praktika\9\myarray.cpp
+	"MyArray.hpp"
+

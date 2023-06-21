@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1650304762 source:c:\users\norma\documents\uni code\poo praktika\8\main.cpp
+	<iostream>
+	"TEMPLATES.hpp"
+
+1650306332 c:\users\norma\documents\uni code\poo praktika\8\templates.hpp
+	<stdio.h>
+	<iostream>
+	<vector>
+
+1650304783 source:c:\users\norma\documents\uni code\poo praktika\8\templates.cpp
+	"TEMPLATES.hpp"
+
+1650306470 source:c:\users\norma\documents\uni code\poo praktika\8\1\main.cpp
+	<iostream>
+	"TEMPLATES.hpp"
+
+1650306332 c:\users\norma\documents\uni code\poo praktika\8\1\templates.hpp
+	<stdio.h>
+	<iostream>
+	<vector>
+

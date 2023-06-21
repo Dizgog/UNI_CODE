@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1648586658 source:c:\users\norma\documents\uni code\poop paskaita\testing bots is a pain\botas.cpp
+	<iostream>
+	<string>
+	<ctype.h>
+	<time.h>
+	<vector>
+	<stdlib.h>
+	<algorithm>
+
+1647993150 source:c:\users\norma\documents\uni code\poop paskaita\testing bots is a pain\message.cpp
+	"Message.h"
+	<random>
+	"NotImplementedException.h"
+
+1647990948 c:\users\norma\documents\uni code\poop paskaita\testing bots is a pain\message.h
+	<string>
+	<regex>
+
+1647987916 c:\users\norma\documents\uni code\poop paskaita\testing bots is a pain\notimplementedexception.h
+	<stdexcept>
+
+1647987916 source:c:\users\norma\documents\uni code\poop paskaita\testing bots is a pain\notimplementedexception.cpp
+	"NotImplementedException.h"
+
+1647993378 source:c:\users\norma\documents\uni code\poop paskaita\testing bots is a pain\regexpvalidator.cpp
+	"RegexpValidator.h"
+
+1647993378 c:\users\norma\documents\uni code\poop paskaita\testing bots is a pain\regexpvalidator.h
+	<string>
+	<regex>
+
+1647975964 source:c:\users\norma\documents\uni code\poop paskaita\testing bots is a pain\user.cpp
+	"User.h"
+
+1647975964 c:\users\norma\documents\uni code\poop paskaita\testing bots is a pain\user.h
+	<string>
+

@@ -1,0 +1,5 @@
+make.exe --dry-run --always-make --keep-going --print-directory
+make: Entering directory 'c:/Users/norma/Documents/UNI CODE/poo praktika/11.2'
+g++ -Isrc/Include -Lsrc/lib -o main main.cpp Rectangle.cpp Shape.cpp Circle.cpp Square.cpp -lmingw32 -lSDL2main -lSDL2 
+make: Leaving directory 'c:/Users/norma/Documents/UNI CODE/poo praktika/11.2'
+ 
