@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a4d6c625-bfae-4c60-bc26-8988623ee159" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../1_kursas/Misc/test/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../1_kursas/Misc/test/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1_kursas/oop paskaita/BANDOMASIS EIK TU NX/.vscode/c_cpp_properties.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1_kursas/oop paskaita/BANDOMASIS EIK TU NX/.vscode/launch.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1_kursas/oop paskaita/BANDOMASIS EIK TU NX/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1_kursas/oop paskaita/BANDOMASIS EIK TU NX/NormantasKuolas.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1_kursas/oop paskaita/BANDOMASIS EIK TU NX/NormantasKuolas.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1_kursas/oop paskaita/BANDOMASIS EIK TU NX/main.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1_kursas/oop paskaita/BANDOMASIS LMAIO/BANDOMASIS LMAIO.cbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1_kursas/oop paskaita/BANDOMASIS LMAIO/BANDOMASIS LMAIO.depend" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1_kursas/oop paskaita/BANDOMASIS LMAIO/BANDOMASIS LMAIO.layout" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1_kursas/oop paskaita/BANDOMASIS LMAIO/NormantasKuolas.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1_kursas/oop paskaita/BANDOMASIS LMAIO/bin/Debug/BANDOMASIS LMAIO.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1_kursas/oop paskaita/BANDOMASIS LMAIO/obj/Debug/main.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2_kursas/Komparkas/tasm - Shortcut.lnk" beforeDir="false" afterPath="$PROJECT_DIR$/../../2_kursas/Komparkas/tasm - Shortcut.lnk" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="2WIBsf341zY3aZKHSbAhMqqS9TW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a4d6c625-bfae-4c60-bc26-8988623ee159" name="Changes" comment="" />
+      <created>1696410422078</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1696410422078</updated>
+    </task>
+    <servers />
+  </component>
+</project>
