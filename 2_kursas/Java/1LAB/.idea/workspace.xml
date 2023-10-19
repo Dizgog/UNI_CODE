@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2578d16b-9ebb-4b77-9a6b-fdc14ed3b681" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/Object/Banana.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/Object/boots.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/Object/chest.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/Object/door.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/Object/key.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/maps/world1.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/maps/world2.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/maps/world3.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/player/dude_down_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/player/dude_down_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/player/dude_left_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/player/dude_left_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/player/dude_right_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/player/dude_right_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/player/dude_up_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/player/dude_up_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/tiles/earth.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/tiles/grass.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/tiles/sand.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/tiles/tree.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/tiles/wall.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/tiles/water.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Entity/Entity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Entity/NPC_MONKE.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Entity/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Object/OBJ_Banana.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Object/OBJ_Key.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Object/SuperObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/AssetSetter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/CollisionChecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/EventHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/Gamepanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/KeyHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/UI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tiles/Tiles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tiles/TilesManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$USER_HOME$/.jdks/openjdk-18.0.2.1/lib/src.zip!/java.base/java/lang/Runnable.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2EQcp8jEBS7779TevpEd5aYVoqQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "jdk.selected.JAVA_MODULE": "openjdk-18",
+    "last_opened_file_path": "C:/Users/norma/Documents/UNI_CODE/2_kursas/TINKLAAII/POP3",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.sourceCode.Java"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="tiles" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\norma\Documents\UNI_CODE\2_kursas\Java poop\untitled\res\tiles" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\norma\Documents\UNI_CODE\2_kursas\Java poop\untitled\res\Object" />
+      <recent name="C:\Users\norma\Documents\UNI_CODE\2_kursas\Java poop\untitled\res\maps" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Run" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="main.Main" />
+      <module name="untitled" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2578d16b-9ebb-4b77-9a6b-fdc14ed3b681" name="Changes" comment="" />
+      <created>1662531431953</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1662531431953</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/untitled$Run.ic" NAME="Run Coverage Results" MODIFIED="1665316663646" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>

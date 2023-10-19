@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="13e456c7-cfdc-429a-9b54-b7181348355d" name="Changes" comment="Testing?">
+      <change afterPath="$PROJECT_DIR$/a.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/1.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/10..pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/11.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/2.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/3.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/4.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/5.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/6.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/7.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/8.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/9.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/Kontras.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output (2).xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myFile2.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/button_hell/Groups.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/button_hell/Groups.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/button_hell/JTableToPdf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/button_hell/JTableToPdf.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/button_hell/addStudents.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/button_hell/addStudents.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/button_hell/attendaceList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/button_hell/attendaceList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/button_hell/editData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/button_hell/editData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/button_hell/listGUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/button_hell/listGUI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/button_hell/saveInFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/button_hell/saveInFile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/button_hell/studList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/button_hell/studList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mainWindow.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/mainWindow.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mainWindow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mainWindow.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$USER_HOME$/.jdks/openjdk-18.0.2.1/lib/src.zip!/java.base/java/lang/NullPointerException.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2IZi3gE7pXBq1WOWmIZvs20ZU7p" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;openjdk-18&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/norma/Documents/UNI_CODE/2_kursas/Java poop/Lab4/lib&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.packagesearch.PackageSearchGeneralConfigurable&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\norma\Documents\UNI_CODE\2_kursas\Java poop\Lab4\src\button_hell" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Lab4" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="13e456c7-cfdc-429a-9b54-b7181348355d" name="Changes" comment="" />
+      <created>1670395312776</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1670395312776</updated>
+    </task>
+    <task id="LOCAL−00001" summary="Testing?">
+      <created>1671842151031</created>
+      <option name="number" value="LOCAL−00001" />
+      <option name="presentableId" value="LOCAL−00001" />
+      <updated>1671842151031</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Testing?" />
+    <option name="LAST_COMMIT_MESSAGE" value="Testing?" />
+  </component>
+</project>
