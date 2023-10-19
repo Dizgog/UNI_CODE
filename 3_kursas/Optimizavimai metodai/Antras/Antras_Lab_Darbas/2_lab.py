@@ -1,68 +1,28 @@
 import numpy as np
-import matplotlib.pyplot as plt
 
+# Funkcija apskaičiuojanti tikslo funkciją
+def objective_function(x):
+    return x ** 2  # Pavyzdinė kvadratinė funkcija
 
-def target_function(X):
-    S = X[0] * X[1] + X[1] * X[2] + X[2] * X[0]  # Turi būti S(X)
-    V = X[0] * X[1] * X[2]  # Turi būti V(X)
-    return S - V ** 2
+# Funkcija apskaičiuojanti tikslo funkcijos gradientą
+def gradient(x):
+    return 2 * x  # Gradients tikslo funkcijos dėl x
 
-def gradient(X):
-    df_dx1 = 2 * (X[0] * X[1] + X[1] * X[2] + X[2] * X[0]) - 2 * X[1] ** 2 * X[2]  # d(f)/d(x1)
-    df_dx2 = 2 * (X[0] * X[1] + X[1] * X[2] + X[2] * X[0]) - 2 * X[0] ** 2 * X[2]  # d(f)/d(x2)
-    df_dx3 = 2 * (X[0] * X[1] + X[1] * X[2] + X[2] * X[0]) - 2 * X[0] ** 2 * X[1]  # d(f)/d(x3)
-    return np.array([df_dx1, df_dx2, df_dx3])
-
-def gradient_descent(X0, learning_rate, max_iterations, epsilon):
-    X = X0
-    X_history = [X]
+# Gradientinio nusileidimo optimizavimo algoritmas
+def gradient_descent(learning_rate, max_iterations, initial_x):
+    x = initial_x
     for i in range(max_iterations):
-        grad = gradient(X)
-        X = X - learning_rate * grad
-        X_history.append(X)
-        if np.linalg.norm(grad) < epsilon:
-            break
-    return X, X_history
+        grad = gradient(x)
+        x = x - learning_rate * grad
+        print(f'Iteracija {i+1}: x = {x}, f(x) = {objective_function(x)}')
+    return x
 
-def newtons_method(X0, max_iterations, epsilon):
-    X = X0
-    X_history = [X]
-    for i in range(max_iterations):
-        grad = gradient(X)
-        hessian_inverse = np.linalg.inv(hessian(X))
-        X = X - np.dot(hessian_inverse, grad)
-        X_history.append(X)
-        if np.linalg.norm(grad) < epsilon:
-            break
-    return X, X_history
+# Pradiniai parametrai
+learning_rate = 0.1  # Mokymosi greitis
+max_iterations = 100  # Maksimalus iteracijų skaičius
+initial_x = 5  # Pradinė pradžios vieta
 
-def hessian(X):
-    # Apibrėžkite Hesiano matricos skaičiavimą čia
-    pass
+# Paleidžiame gradientinio nusileidimo algoritmą
+final_x = gradient_descent(learning_rate, max_iterations, initial_x)
 
-def deformable_simplex(X0, max_iterations, epsilon):
-    simplex = initialize_simplex(X0)
-    X_history = [simplex]
-    for i in range(max_iterations):
-        X_best = find_best_point(simplex)
-        simplex = create_new_simplex(simplex, X_best)
-        X_history.append(simplex)
-        if convergence_criteria(simplex, X_best, epsilon):
-            break
-    return X_best, X_history
-
-def initialize_simplex(X0):
-    # Sukurkite pradinį simpleksą aplink tašką X0
-    pass
-
-def find_best_point(simplex):
-    # Raskite simplekso viršūnę, kurioje funkcija įgyja mažiausią reikšmę
-    pass
-
-def create_new_simplex(simplex, X_best):
-    # Sukurkite naują simpleksą, pridedant arba šalindami taškus
-    pass
-
-def convergence_criteria(simplex, X_best, epsilon):
-    # Patikrinkite, ar pasiekta konvergavimo sąlyga
-    pass
+print(f'Galutinis rezultatas: x = {final_x}, f(x) = {objective_function(final_x)}')
