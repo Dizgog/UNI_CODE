@@ -2,30 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6a5a2eb6-0794-4103-9b00-7cac690f5a36" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../1_kursas/Misc/test/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../1_kursas/Misc/test/main.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../1_kursas/oop paskaita/BANDOMASIS EIK TU NX/.vscode/c_cpp_properties.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../1_kursas/oop paskaita/BANDOMASIS EIK TU NX/.vscode/launch.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../1_kursas/oop paskaita/BANDOMASIS EIK TU NX/.vscode/settings.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../1_kursas/oop paskaita/BANDOMASIS EIK TU NX/NormantasKuolas.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../1_kursas/oop paskaita/BANDOMASIS EIK TU NX/NormantasKuolas.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../1_kursas/oop paskaita/BANDOMASIS EIK TU NX/main.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../1_kursas/oop paskaita/BANDOMASIS LMAIO/BANDOMASIS LMAIO.cbp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../1_kursas/oop paskaita/BANDOMASIS LMAIO/BANDOMASIS LMAIO.depend" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../1_kursas/oop paskaita/BANDOMASIS LMAIO/BANDOMASIS LMAIO.layout" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../1_kursas/oop paskaita/BANDOMASIS LMAIO/NormantasKuolas.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../1_kursas/oop paskaita/BANDOMASIS LMAIO/bin/Debug/BANDOMASIS LMAIO.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../1_kursas/oop paskaita/BANDOMASIS LMAIO/obj/Debug/main.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../2_kursas/Komparkas/tasm - Shortcut.lnk" beforeDir="false" afterPath="$PROJECT_DIR$/../../../2_kursas/Komparkas/tasm - Shortcut.lnk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2_lab.py" beforeDir="false" afterPath="$PROJECT_DIR$/2_lab.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2WIByYVLxd5S1dVMdgoehAl5lWd" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -33,12 +29,8 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-  </component>
-  <component name="RunManager">
-    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.2_lab">
+    <configuration name="2_lab" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Antras_Lab_Darbas" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -50,7 +42,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2_lab.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -59,6 +51,31 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="idk" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Antras_Lab_Darbas" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\norma\Documents\UNI_CODE\3_kursas\Optimizavimai metodai\Antras\Antras_Lab_Darbas\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/idk.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.2_lab" />
+      <item itemvalue="Python.idk" />
+    </list>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -81,5 +98,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
