@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6a5a2eb6-0794-4103-9b00-7cac690f5a36" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../OS unix/2 lab/makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OS unix/2 lab/makefile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/2_lab.py" beforeDir="false" afterPath="$PROJECT_DIR$/2_lab.py" afterDir="false" />
     </list>

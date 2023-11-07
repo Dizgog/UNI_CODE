@@ -29,7 +29,7 @@ def gradient_steep(x:float, y:float):
     return np.array([grad_x, grad_y])
 
 # Define the gradient descent algorithm
-def gradient_descent(start_x:float, start_y:float, learning_rate:float, accuracy:float):
+def gradient_descent(start_x:float, start_y:float, learning_rate:float, tolerance:float):
     # Initialize the parameters
     x = start_x
     y = start_y
@@ -44,7 +44,7 @@ def gradient_descent(start_x:float, start_y:float, learning_rate:float, accuracy
         x = x - learning_rate * grad_x
         y = y - learning_rate * grad_y
         new_cost = abs(f(x, y))
-        if new_cost == cost:
+        if np.linalg.norm(gradient(x, y)) < tolerance:
             break
         cost = new_cost
         print(x, y, cost, new_cost)
@@ -55,7 +55,7 @@ def gradient_descent(start_x:float, start_y:float, learning_rate:float, accuracy
 
 
 
-def gradient_descent_graph(initial_x:float, initial_y:float, learning_rate:float):
+def gradient_descent_graph(initial_x:float, initial_y:float, learning_rate:float, tolerance:int):
     x = np.arange(-1, 1, 0.05)
     y = np.arange(-1, 1, 0.05)
     X, Y = np.meshgrid(x,y)
@@ -65,7 +65,7 @@ def gradient_descent_graph(initial_x:float, initial_y:float, learning_rate:float
     while True:
         X_derivative, Y_derivative = gradient(current_pos[0], current_pos[1])
         X_new, Y_new = current_pos[0] - learning_rate * X_derivative, current_pos[1] - learning_rate * Y_derivative
-        if X_new == current_pos[0] or Y_new == current_pos[0]:
+        if np.linalg.norm(gradient(current_pos[0], current_pos[1])) < tolerance:
             break
         current_pos = (X_new, Y_new, f(X_new, Y_new))
         print(current_pos)
@@ -228,9 +228,9 @@ def simplex_deformation_method(
 
 # Hyperparameters
 learning_rate = 0.2
-accuracy_threshold = 0.0001
+accuracy_threshold = 1e-6
 initial_x = 0
-initial_y = 0.9
+initial_y = 0
 
 initial_point = np.array([1, 1])
 # Run gradient descent
@@ -242,8 +242,8 @@ print(f'Optimal x: {optimal_x}, Optimal y: {optimal_y}')
 #steepest descent
 
 # Initial parameters
-#min_point, min_value, num_iterations = steepest_descent_graph(initial_point, learning_rate, accuracy_threshold)
-#print(f'Minimum Point: {min_point}, Minimum Value:, {min_value}, Number of Iterations:, {num_iterations}')
+min_point, min_value, num_iterations = steepest_descent_graph(initial_point, learning_rate, accuracy_threshold)
+print(f'Minimum Point: {min_point}, Minimum Value:, {min_value}, Number of Iterations:, {num_iterations}')
 #plt.show()
 
 
