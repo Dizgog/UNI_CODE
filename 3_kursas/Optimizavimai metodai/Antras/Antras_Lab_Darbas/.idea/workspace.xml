@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6a5a2eb6-0794-4103-9b00-7cac690f5a36" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../../../OS unix/2 lab/makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OS unix/2 lab/makefile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2_lab.py" beforeDir="false" afterPath="$PROJECT_DIR$/2_lab.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +27,11 @@
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../../Benediktas" />
   </component>
   <component name="RunManager" selected="Python.2_lab">
     <configuration name="2_lab" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
