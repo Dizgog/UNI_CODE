@@ -1,0 +1,16 @@
+[p,g,bt]=[4640650289117164100520051333566036654627, 2, 3264096059107430292648184185232100898415]
+
+a=334455
+factor(p-1)
+q=144569 
+al=power_mod(g,(p-1)q,p)
+bt=power_mod(al,q,p)
+Rv=[p, al,bt]
+m=10000001
+k=22374982341111
+gam=power_mod(al,k,p)%q
+dlt=(x+agam)k%q
+sig=[gam,dlt]
+e1=(xdlt)%q
+e2=(gamdlt)%q
+power_mod(al,e1,p)power_mod(bt,e2,p)%p%q==gam

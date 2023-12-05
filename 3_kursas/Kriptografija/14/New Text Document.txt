@@ -1,0 +1,34 @@
+'''
+Raskite paslaptį, padalytą pagal Shamiro schemą su slenksčiu t=3
+ p=3138428376749
+ x=[x1,x2,x3]=[1285861979129, 1769552353919, 2276375272177]
+  s=[s1,s2,s3]=[1401260559636, 1801161589090, 3094713574971]
+Raskite paslaptį, padalytą pagal Asmutho-Blumo schemą su slenksčiu t=3,
+ ir padalykite ją iš naujo 5 dalyviams pagal Shamiro schemą su slenksčiu t=3.
+ [p,p1,p2,p3]=[21485203, 42970409, 85940801, 171881603]
+ [s1,s2,s3]=[32227122, 32227088, 32227089]
+ '''
+p=3138428376749
+[x1,x2,x3]=[1285861979129, 1769552353919, 2276375272177]
+[s1,s2,s3]=[1401260559636, 1801161589090, 3094713574971]
+
+f1=s1*x2*x3/((x2-x1)*(x3-x1))%p
+f2=s2*x1*x3/((x1-x2)*(x3-x2))%p
+f3=s3*x1*x2/((x1-x3)*(x2-x3))%p
+
+s=(f1+f2+f3)%p
+#print(s)
+
+[p,p1,p2,p3]=[21485203, 42970409, 85940801, 171881603]
+[s1,s2,s3]=[32227122, 32227088, 32227089]
+
+n=p1*p2*p3
+n1=n/p1
+n2=n/p2
+n3=n/p3
+u1=1/n1%p1
+u2=1/n2%p2
+u3=1/n3%p3
+Sz=(s1*u1*n1+s2*u2*n2+s3*u3*n3)%n
+s=Sz%p
+#print(s)
