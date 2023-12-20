@@ -18,7 +18,7 @@ def h_i(x: float, y: float, z: float):
 # must be
 
 #STARTING POINTS
-def get_points(a=2, b=9, c=4):
+def get_points(a=3, b=0, c=9):
     return [(0, 0, 0), (1, 1, 1), (a / 10, b / 10, c / 10)]
 
 #PENALTY FUNCTION
@@ -121,8 +121,7 @@ def graph(all_arguments):
     ax.set_zlabel('Z')
     plt.show()
 
-
-"""EXPLORATION OF THE PENALTY METHOD"""
+#EXPLORATION OF THE PENALTY METHOD
 starting_points = get_points()
 current_r = 1000
 r_values = [current_r * pow(0.3, i) for i in range(20)]
