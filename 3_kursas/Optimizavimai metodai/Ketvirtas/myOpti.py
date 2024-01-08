@@ -9,7 +9,7 @@ A = [[-1, 1, -1, -1, 1, 0, 0],
      [0, 0, 1, 1, 0, 0, 1]]
 
 # Define the RHS of the inequalities
-b = [8, 10, 10]
+b = [8, 10, 3]
 b1 = [3, 0, 9]
 
 def mainFunction(X_check):
@@ -21,7 +21,6 @@ def makeTable(A, b2, c):
     for i in range(3):
         row = A[i] + [b2[i]]
         table.append(row)
-    print(c)
     table.append(c)
     return table
 
